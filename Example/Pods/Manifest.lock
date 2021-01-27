@@ -1,0 +1,16 @@
+PODS:
+  - FrameWorkMerge (0.1.0)
+
+DEPENDENCIES:
+  - FrameWorkMerge (from `../`)
+
+EXTERNAL SOURCES:
+  FrameWorkMerge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FrameWorkMerge: 89abd2e6cea1bfa4fd1ab13587b9b77a6ebb432d
+
+PODFILE CHECKSUM: 728c9b3f59fc2e8ada8e06b026236bcfc6836c69
+
+COCOAPODS: 1.10.1
